@@ -12,9 +12,11 @@ This script initializes a **Vite + React** project with **Vanilla JavaScript** a
 - Starts the dev server immediately
 
 ## 🚀 Usage
-
 ```bash
 node <path-to-script> <app-name>
+```
 
-node ".node script\\react-tailwind-setup.js" my-react-app
-
+## 🚀 Example
+```bash
+node ".\node script\react-tailwind-setup.js" my-react-app
+```
